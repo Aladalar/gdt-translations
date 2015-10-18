@@ -6332,7 +6332,7 @@ msgstr "Hned to bude!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
-msgstr ""
+msgstr "hotovo"
 
 msgid "{0}K"
 msgstr "{0}K"
@@ -6481,7 +6481,7 @@ msgid "Choose Folder"
 msgstr "Zvolit složku"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Vyperte vzhled"
 
 msgid "Update"
 msgstr "Aktualizovat"
@@ -6529,13 +6529,13 @@ msgid "Hardware"
 msgstr "technické vybavení"
 
 msgid "Player"
-msgstr ""
+msgstr "Hráč"
 
 msgid "you"
-msgstr ""
+msgstr "ty"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Speciální poděkování {0} za koupi naší hry  a jeho podporu"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "G3 výcvik"
